@@ -1,6 +1,6 @@
 
 
-### keybindings & load/save commands
+### keybindings & load/save
 
 ```markdown
 zf 	-- create fold ( first mark few lines with SHIFT+V )
