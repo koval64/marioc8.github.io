@@ -1,7 +1,3 @@
-## marioc8
-
-
-[GitHub Pages welcome screen](basic_syntax.md)
 
 [Vim folds](Vim folds)
 
