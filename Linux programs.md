@@ -6,6 +6,7 @@
 - nmtui			-- network configurator
 - vimb			-- vim like web browser
 - tmux			-- terminal multiplexer
+
 - kakoune		-- text editor
 - ranger		-- file manager with vi keybindings
 - vifm			-- file manager with vi keybindings
