@@ -1,5 +1,5 @@
 
-# Vim plugins
+### Vim plugins
 
 - quick-scope
 - vim-commentary

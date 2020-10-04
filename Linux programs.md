@@ -1,5 +1,5 @@
 
-# terminal utils
+### terminal utils
 
 - bash
 - nmtui			-- network configurator
@@ -17,21 +17,21 @@
 - stty -a
 - git
 
-# eye candy
+### eye candy
 
 - inxi -Fxz		-- print system details
 - screenfetch		-- fancy bash welcome screen
 - neofetch		-- fancy bash welcome screen
 - figlet / toilet	-- convert text into bigger text
 
-# console screensavers
+### console screensavers
 
 - asciiquarium
 - cbeams
 - cmatrix
 - sl
 
-# desktop utils
+### desktop utils
 
 - nitrogen		-- walpaper manager
 - qutebrowser		-- www browser with vi keybindings
