@@ -3,24 +3,24 @@
 
 ```markdown
 - bash
-- nmtui			-- network configurator
-- vimb			-- vim like web browser
-- tmux			-- terminal multiplexer
+- nmtui		-- network configurator
+- vimb		-- vim like web browser
+- tmux		-- terminal multiplexer
 
-- kakoune		-- text editor
-- ranger		-- file manager with vi keybindings
-- vifm			-- file manager with vi keybindings
+- kakoune	-- text editor
+- ranger	-- file manager with vi keybindings
+- vifm		-- file manager with vi keybindings
 - gotop
 - atop
 
-- tldr			-- alternative to man pages
+- tldr		-- alternative to man pages
 - shopt
 - tree
 - stty -a
 - git
 ```
 
-### eye candy
+### eye candy terminal
 
 ```markdown
 - inxi -Fxz		-- print system details
@@ -29,7 +29,7 @@
 - figlet / toilet	-- convert text into bigger text
 ```
 
-### console screensavers
+### terminal screensavers
 
 ```markdown
 - asciiquarium
@@ -41,9 +41,9 @@
 ### desktop utils
 
 ```markdown
-- nitrogen		-- walpaper manager
-- qutebrowser		-- www browser with vi keybindings
-- sxiv			-- image viewier
+- nitrogen	-- walpaper manager
+- qutebrowser	-- www browser with vi keybindings
+- sxiv		-- image viewier
 - polybar
 ```
 
