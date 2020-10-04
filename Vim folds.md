@@ -1,14 +1,14 @@
 
 
-### keybindings
+### keybindings & load/save commands
 
 ```markdown
 zf 	-- create fold ( first mark few lines with SHIFT+V )
-za 	-- toggle fold
-zd 	-- delete fold
-
 zo 	-- open fold
 zc 	-- close fold
+
+za 	-- toggle fold
+zd 	-- delete fold
 
 zr 	-- unfold all
 zR 	-- unfold all
