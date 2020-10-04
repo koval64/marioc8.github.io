@@ -1,6 +1,7 @@
 
 ### Vim plugins
 
+```markdown
 - quick-scope
 - vim-commentary
 - closetag		-- 4 web dev: auto close (x)html tags
@@ -22,5 +23,5 @@
 - vim-which-key
 - vimwiki
 - vundle
- 
+``` 
 

@@ -1,6 +1,6 @@
 
 
-### Keybindings
+### keybindings
 
 ```markdown
 zf 	-- create fold ( first mark few lines with SHIFT+V )
@@ -19,15 +19,7 @@ zM 	-- fold all
 :loadview	-- restore folds
 ```
 
-### Add fold
-
-mark some lines with SHIFT+V
-then type
-```markdown
-zf
-```
-
-### Add to .vimrc to autosave and autoload folds
+### add to .vimrc to autosave and autoload folds
 
 ```markdown
 autocmd BufWinLeave *.* mkview
