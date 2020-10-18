@@ -3,12 +3,12 @@
 
 ### Vim modes
 
-  |  Mode                       |  keys            |
-  +-----------------------------+------------------+
-  |  Normal Mode                |  Esc             |
-  |  Insert Mode                |  i, a, c, o, s   |
-  |  Visual Mode                |  v, V, <Ctrl-v>  |
-  |  Command-line Mode          |  :, /            |
+  | Mode              | keys           |
+  |                   |                |
+  | Normal Mode       | Esc            |
+  | Insert Mode       | i, a, c, o, s  |
+  | Visual Mode       | v, V, <Ctrl-v> |
+  | Command-line Mode | :, /           |
 
 
 ### Vim visual diff files in windows
@@ -69,14 +69,14 @@
 
 ### File browsing in VIM
 
-:Explore - file explorer 
-:Sexplore - horizontal 
-:Vexplore - vertical 
-:Texplore - open file in tabpage 
-:edit . 
-:e. 
-:sp. (horizontal) 
-:vs. (vertical) 
+:Explore - file explorer  
+:Sexplore - horizontal  
+:Vexplore - vertical  
+:Texplore - open file in tabpage  
+:edit .  
+:e.  
+:sp. (horizontal)  
+:vs. (vertical)  
 
    ### File operation commands:
    %  =>  create new file
