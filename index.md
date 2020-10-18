@@ -1,4 +1,6 @@
 
+[Bash](Bash)
+
 [Vim folds](Vim folds)
 
 [Vim accesing shell](Vim accesing shell)
