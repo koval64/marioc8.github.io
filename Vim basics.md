@@ -4,7 +4,7 @@
 ### Vim modes
 
   | Mode              | keys           |
-  |                   |                |
+  | :-                | :-             |
   | Normal Mode       | Esc            |
   | Insert Mode       | i, a, c, o, s  |
   | Visual Mode       | v, V, <Ctrl-v> |
@@ -79,61 +79,61 @@
 :vs. (vertical)  
 
    ### File operation commands:
-   %  =>  create new file
-   d  =>  create new dir
-   R  =>  renaming
-   D  =>  deleting
+   %  =>  create new file  
+   d  =>  create new dir  
+   R  =>  renaming  
+   D  =>  deleting  
 
-:bdel - close current buffer
+:bdel - close current buffer  
 
 
 ### VIM TABS
-vim file1 - open file1 in vim
-:tabedit file2 - open file2 in tab
-:tabedit file3 - open file3 in tab
-gt - go next tab
-gT - go previous tab
-{i}gt - go {i} times next tab
-{i}gT - go {i} times previous tab
-:tabfirst - go first tab
-:tablast - go last tab
-:tabn - go next tab
-:tabp - go previous tab
-:tabs - list all open tabs
-vim -p file1 file2 - open multiple files in tabs
-:tabclose - close tab
-:tabonly - close all tabs except the current one
+vim file1 - open file1 in vim  
+:tabedit file2 - open file2 in tab  
+:tabedit file3 - open file3 in tab  
+gt - go next tab  
+gT - go previous tab  
+{i}gt - go {i} times next tab  
+{i}gT - go {i} times previous tab  
+:tabfirst - go first tab  
+:tablast - go last tab  
+:tabn - go next tab  
+:tabp - go previous tab  
+:tabs - list all open tabs  
+vim -p file1 file2 - open multiple files in tabs  
+:tabclose - close tab  
+:tabonly - close all tabs except the current one  
    # Session save and restore
-   :mksession session001.vim
+   :mksession session001.vim  
    # To restore session either
-   vim -S session001.vim
+   vim -S session001.vim  
    # or
-   :source session001.vim
+   :source session001.vim  
 
 
-:scriptnames
-:set path
-:set wildmenu
-:edit .
+:scriptnames  
+:set path  
+:set wildmenu  
+:edit .  
 
 
 ### vim plugins:
-vundle    - plugin manager
-nerdtree  - file drawer
-fugitive  - git tool
-syntastic - syntax checker/linter
-lightline
+vundle    - plugin manager  
+nerdtree  - file drawer  
+fugitive  - git tool  
+syntastic - syntax checker/linter  
+lightline  
 
 
-tmux
+tmux  
 
 
 ### Pure vim:
 
-fuzzy file search
-tag jumping
-autocomplete
-file browsing
-snippets
-build integration
+fuzzy file search  
+tag jumping  
+autocomplete  
+file browsing  
+snippets  
+build integration  
 
