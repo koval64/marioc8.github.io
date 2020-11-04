@@ -10,10 +10,17 @@
 - kakoune	-- text editor
 - ranger	-- file manager with vi keybindings
 - vifm		-- file manager with vi keybindings
+- nnn		-- minimalistic file manager
+
+- dvtm		-- terminal window management
+- abduco	-- session management
+- dvtm + abduco	-- minimalistic combo that is an tmux alternative
+
 - gotop
 - atop
-
+- translate-shell	-- command-line translator using online translators
 - tldr		-- alternative to man pages
+
 - shopt
 - tree
 - stty -a
