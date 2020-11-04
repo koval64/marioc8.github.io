@@ -1,15 +1,15 @@
 
-[Git help](git help)
+[git help](git help)
 
-[Bash](Bash)
+[bash](bash)
 
-[Vim basics](Vim basics)
+[vim basics](vim basics)
 
-[Vim folds](Vim folds)
+[vim folds](vim folds)
 
-[Vim accesing shell](Vim accesing shell)
+[vim accesing shell](vim accesing shell)
 
-[Vim plugins](Vim plugins)
+[vim plugins](vim plugins)
 
-[Linux programs](Linux programs)
+[linux programs](linux programs)
 
