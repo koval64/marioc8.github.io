@@ -1,5 +1,5 @@
 
-[git help](git help)
+[Git help](git help)
 
 [Bash](Bash)
 
