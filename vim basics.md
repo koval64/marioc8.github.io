@@ -110,14 +110,13 @@
 :mksession session001.vim  
 # To restore session either
 vim -S session001.vim  
-# or
+### or
 :source session001.vim  
 
-
+# Other
 :scriptnames  
 :set path  
 :set wildmenu  
-:edit .  
 
 
 ### vim plugins:
