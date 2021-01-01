@@ -7,14 +7,14 @@
 - vimb		-- vim like web browser
 - tmux		-- terminal multiplexer
 
-- kakoune	-- text editor
+- kakoune	-- text editor (vim alternative)
 - ranger	-- file manager with vi keybindings
 - vifm		-- file manager with vi keybindings
 - nnn		-- minimalistic file manager
 
 - dvtm		-- terminal window management
 - abduco	-- session management
-- dvtm + abduco	-- minimalistic combo that is an tmux alternative
+- dvtm + abduco	-- minimalistic combo (tmux alternative)
 
 - gotop
 - atop
@@ -42,7 +42,7 @@
 - asciiquarium
 - cbeams
 - cmatrix
-- sl
+- sl          -- ascii locomotive animation
 ```
 
 ### desktop utils
