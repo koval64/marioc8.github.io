@@ -13,16 +13,16 @@
 - fugitive
 
 - hexokinase		-- #456237 -- display with colour
-- lightline
+- lightline     -- lightweight eyecandy statusbar
 - nerdtree
 - papercolor-theme
 
-- quick-scope
+- quick-scope   -- highlighted letter search
 - speeddating		-- use CTRL-A/CTRL-X to increment dates, times, and more
 - surround.vim		-- quoting/parenthesizing made simple
 - syntastic
 
-- vim-startify
+- vim-startify    -- cow philosopher with most recent used files
 - vim-table-mode	-- instant table creation
 - vim-which-key
 - vimwiki
