@@ -4,15 +4,15 @@
 ```
 - [quick scope](quick-scope)
 - vim-commentary
-- closetag		-- 4 web dev: auto close (x)html tags
+- closetag        -- 4 web dev: auto close (x)html tags
 - coc.nvim
 
 - ctrlp
-- emmet			  -- 4 web dev: expand html abbreviations
-- fern-vim		-- file manager
+- emmet           -- 4 web dev: expand html abbreviations
+- fern-vim        -- file manager
 - fugitive
 
-- hexokinase		  -- #456237 -- display with color
+- hexokinase      -- #456237 -- display with color
 - lightline       -- lightweight eyecandy statusbar
 - nerdtree
 - papercolor-theme
