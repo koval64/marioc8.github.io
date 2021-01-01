@@ -13,7 +13,7 @@
 - fugitive
 
 - hexokinase		-- #456237 -- display with colour
-- lightline     -- lightweight eyecandy statusbar
+- lightline       -- lightweight eyecandy statusbar
 - nerdtree
 - papercolor-theme
 
@@ -22,7 +22,7 @@
 - surround.vim		-- quoting/parenthesizing made simple
 - syntastic
 
-- vim-startify    -- cow philosopher with most recent used files
+- vim-startify      -- cow philosopher with most recent used files
 - vim-table-mode	-- instant table creation
 - vim-which-key
 - vimwiki
