@@ -25,6 +25,9 @@ git add .
 git commit -m "some description to newly added files"
 git status
 
+# you can still change description before upload
+git commit --amend
+
 # uploading changes
 git push
 $ enter username
