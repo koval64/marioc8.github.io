@@ -25,7 +25,7 @@ git add .
 git commit -m "some description to newly added files"
 git status
 
-# you can still change description before upload
+# change last commit description before/after upload
 git commit --amend
 
 # uploading changes
