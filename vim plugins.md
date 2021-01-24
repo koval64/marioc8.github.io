@@ -1,6 +1,7 @@
 
 ### Vim plugins
 
+- [quick scope](quick-scope)
 <pre>
 - [quick scope](quick-scope)
 - vim-commentary
