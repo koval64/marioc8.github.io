@@ -1,10 +1,8 @@
 
 ### Vim plugins
 
-- [quick scope](quick-scope)
 <pre>
 - <a href="https://marioc8.github.io/quick-scope">quick scope</a>
-- [quick scope](quick-scope)
 - vim-commentary
 - closetag        -- 4 web dev: auto close (x)html tags
 - coc.nvim
