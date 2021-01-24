@@ -1,7 +1,7 @@
 
 ### Vim plugins
 
-```
+<pre>
 - [quick scope](quick-scope)
 - vim-commentary
 - closetag        -- 4 web dev: auto close (x)html tags
@@ -28,5 +28,5 @@
 - vimwiki
 
 - vundle
-``` 
+</pre>
 
