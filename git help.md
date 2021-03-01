@@ -28,6 +28,9 @@ git status
 # change last commit description before or after upload
 git commit --amend
 
+# set url for ssh
+git remote set-url origin git@github.com:<Username>/<Project>.git
+
 # uploading changes
 git push
 $ enter username
