@@ -1,3 +1,0 @@
-quick scope
-whatever forever
-
